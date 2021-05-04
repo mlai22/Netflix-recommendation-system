@@ -26,4 +26,4 @@ Mei-Yu Lai - mlai22@jhu.edu
 - MSE student in Biomedical Engineering at Johns Hopkins University
 
 #### Reference
-[Kaggle:](https://www.kaggle.com/shivamb/netflix-shows)
+Kaggle: https://www.kaggle.com/shivamb/netflix-shows
