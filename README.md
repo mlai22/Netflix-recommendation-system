@@ -1,11 +1,16 @@
 # Netflix-recommendation-system
 #### Overview
-[Presentation]()  
-[Shiny app]()
+[Shiny app](https://mlai22.shinyapps.io/netflixRS/)
 
 The app is designed for Netflix recommendation system.  
 The motivation of this project is to explore the Netflix dataset and build a recommendation system based on the contents of users' preferences.  
 Using content-based recommendation system to calculate cosine similarity scores, and return the top 10 movies/TV Shows that users are likely to be interested in.  
+
+#### Limitation
+The shiny app is running out of memory due to the large binary datasets, 
+so the recommendation system in the app was displyed by a toy dataset.  
+If you would like to have a complete system, please download this repository 
+and run the shiny app locally.
 
 #### Requirements
 The following R packages are required:
