@@ -19,11 +19,11 @@ The following R packages are required:
 
 #### License
 Distributed under the GNU General Public License v3.0.
-See `LICENSE` <https://github.com/mlai22/Netflix-recommendation-system/blob/main/LICENSE> for more information.
+See [`LICENSE`](https://github.com/mlai22/Netflix-recommendation-system/blob/main/LICENSE) for more information.
 
 #### Contact
 Mei-Yu Lai - mlai22@jhu.edu
 - MSE student in Biomedical Engineering at Johns Hopkins University
 
 #### Reference
-Kaggle:<https://www.kaggle.com/shivamb/netflix-shows>
+[Kaggle:](https://www.kaggle.com/shivamb/netflix-shows)
